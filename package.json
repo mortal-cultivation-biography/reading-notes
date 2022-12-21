@@ -1,0 +1,23 @@
+{
+  "name": "reading-notes",
+  "version": "1.0.0",
+  "description": "A reading notes collection.",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortal-cultivation-biography/reading-notes.git"
+  },
+  "keywords": [
+    "reading-notes"
+  ],
+  "author": "nmsn <1366696700@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mortal-cultivation-biography/reading-notes/issues"
+  },
+  "homepage": "https://github.com/mortal-cultivation-biography/reading-notes#readme",
+  "dependencies": {
+    "issue-collection-md": "^0.0.5"
+  }
+}
