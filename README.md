@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：12/21/2022
+> 更新时间：12/27/2022
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[https://zhuanlan.zhihu.com/p/87579573](https://github.com/mortal-cultivation-biography/reading-notes/issues/12)|![移动端](https://img.shields.io/badge/-移动端-c5def5)|2022/12/27|0|
 |[谈谈JS二进制：File、Blob、FileReader、ArrayBuffer、Base64](https://github.com/mortal-cultivation-biography/reading-notes/issues/11)|![JavaScript](https://img.shields.io/badge/-JavaScript-CED388)|2022/12/20|0|
 |[JavaScript package managers compared: npm, Yarn, or pnpm?](https://github.com/mortal-cultivation-biography/reading-notes/issues/10)|![开发工具](https://img.shields.io/badge/-开发工具-d4c5f9)|2022/12/12|0|
 |[How to manage multiple nodejs versions with pnpm?](https://github.com/mortal-cultivation-biography/reading-notes/issues/9)|![开发工具](https://img.shields.io/badge/-开发工具-d4c5f9)|2022/12/12|0|
