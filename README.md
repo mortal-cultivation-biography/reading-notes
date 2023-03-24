@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：12/30/2022
+> 更新时间：3/24/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[重学 TS](https://github.com/mortal-cultivation-biography/reading-notes/issues/14)|![Typescript](https://img.shields.io/badge/-Typescript-d93f0b)|2023/3/24|0|
 |[项目中 2 个真实的 TS 类型编程案例](https://github.com/mortal-cultivation-biography/reading-notes/issues/13)|![Typescript](https://img.shields.io/badge/-Typescript-d93f0b)|2022/12/30|0|
 |[如何解决移动端300ms延迟的问题](https://github.com/mortal-cultivation-biography/reading-notes/issues/12)|![移动端](https://img.shields.io/badge/-移动端-c5def5)|2022/12/27|0|
 |[谈谈JS二进制：File、Blob、FileReader、ArrayBuffer、Base64](https://github.com/mortal-cultivation-biography/reading-notes/issues/11)|![JavaScript](https://img.shields.io/badge/-JavaScript-CED388)|2022/12/20|0|
